@@ -1,0 +1,2 @@
+20
+ResultSet object has no attribute 'get_text'. You're probably treating a list of items like a single item. Did you call find_all() when you meant to call find()?
